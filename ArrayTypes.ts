@@ -12,3 +12,5 @@ const matrix: number[][] = [
 ]
 
 const triple :number[][][] = [[[12,3],[34,6]]]
+
+
